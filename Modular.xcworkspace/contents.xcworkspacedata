@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Application/Application.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DI/DI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Feature/Feature.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIComponent/UIComponent.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Domain/Domain.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Data/Data.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Util/Util.xcodeproj">
+   </FileRef>
+</Workspace>
